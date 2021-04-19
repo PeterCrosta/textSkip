@@ -1,10 +1,10 @@
   {
     "name": "Reskipe",
-    "version": "1.0",
+    "version": "0.0.0.1",
     "description": "Skip the nonsense, get right to the recipe!",
     "manifest_version": 2,
     "browser_action": {
-      "default_icon": "placeHolder.png"
+      "default_icon": "recipe-book.png"
      },
      "permissions": [
       "activeTab"
